@@ -6,7 +6,7 @@ import numpy
 class VAE_gaussian(FunctionSet):
 
     # You must add attr named with 'enc_l1' and 'dec_l1'
-    # for specification of the input and latent dimensions.
+    # for specification of the input and latent dimensions, in __init__ of FunctionSet.
 
     def encode(self,x):
         raise NotImplementedError()
