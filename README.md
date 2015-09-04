@@ -1,5 +1,7 @@
 #Implementation of Variational Auto Encoder
+
 I Implementated Variational Auto Encoder(VAE) with Chainer (unsupported on GPU)
+
 You can train example VAE on the ipython notebook:https://github.com/takerum/vae/blob/master/source/train_vae.ipynb
 
 ##Required libraries:
