@@ -1,6 +1,5 @@
-# Implementation of Variational Auto Encoder with Chainer
-Now only cpu implementation is available.
-
+# Implementation of Variational Auto Encoder(VAE) with Chainer (unsupported on GPU)
+You can train example VAE on ipython notebook
 ##Required libraries:
 
 python 2.7, chainer 1.3.0
