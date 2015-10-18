@@ -1,6 +1,6 @@
-#Implementation of Variational Auto Encoder
+#Implementation of Variational Autoencoder
 
-I Implementated Variational Auto Encoder (VAE) with Chainer
+I Implementated Variational Autoencoder (VAE) with Chainer
 
 You can train an example model of VAE on the ipython notebook:https://github.com/takerum/vae/blob/master/source/train_vae.ipynb
 
